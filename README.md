@@ -11,13 +11,13 @@ Using the skills you’ve acquired building neural networks using PyTorch, your 
 
 
 
-## The following are the main steps of this project. The notebook also contains instructions and hints that will guide you through this process:
+## The following are the main steps of this project. 
 
-Explore and prepare the data for training and testing.
-Design and build your neural network.
-Train the neural network on the training set.
-Evaluate your network's performance on the test set.
-Make a recommendation on the build vs. buy business decision.
+- Explore and prepare the data for training and testing.
+- Design and build your neural network.
+- Train the neural network on the training set.
+- Evaluate your network's performance on the test set.
+- Make a recommendation on the build vs. buy business decision.
 
 
 
